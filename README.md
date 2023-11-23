@@ -1,3 +1,7 @@
+
+# CS690
+Computational Genomics CS609 - Fall,2023 - IIT Kanpur, H.Zafar 
+
 Objective:
 
 Imputation and denoising of spatial transcriptomic data
@@ -13,6 +17,3 @@ data that will utilize the information from the physical locations of sequencing
 organization reflected in corresponding pathology images to learn a latent representation of
 the data which can be used for denoising the data. Several graph neural network models are
 available for data imputation. Some of these models can be extended to incorporate the spatial graph for imputation. Standard datasets used by other imputation methods can be used for evaluation.
-
-# CS690
-Computational Genomics CS609 - Fall,2023 - IIT Kanpur, H.Zafar 
